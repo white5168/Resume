@@ -117,11 +117,11 @@
 <hr>
 
 ### 工作作品
-- 個股基本面分析
-<img src="AWS-Certified-DevOps-Engineer-Professional-certificate.jpg" width="500" height="280"><BR>
+- 個股基本面分析<BR>
+<img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi9i1c18JWTX_BqHlRsrqMOcYRk-us5z-T_YTQNEzDH4ONAw3e_hL-AnU4Ki5bcncqXJhNGXCY1QlrP2VesZUxJWySsXFTtAwJj3kXUObTnrc-ovOZeAy-s6bgZNd2CtLau5EsRGtjPF2k/s1515/20210104-1.gif" width="500" height="280"><BR>
 
-- 個股財報指標比較
-<img src="AWS-Certified-DevOps-Engineer-Professional-certificate.jpg" width="500" height="280"><BR>
+- 個股財報指標比較<BR>
+<img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiNPP_HvP_tlDiVCQmwjDmTUq-oscZGL0kLgdeBUJ9ucbctkYf2A_sV1lYtlPiwrjhXVCz4lbTqoBhTkd3muM8AC1i3-yINJJXZr8oEs95YMUMToXOkCllhG7d050MFPCvSzd-LZCHauQM/s1515/20210104-2.gif" width="500" height="280"><BR>
 
 ### 學術作品
 - 研究所論文 2008/08
