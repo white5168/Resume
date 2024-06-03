@@ -124,10 +124,10 @@
 <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiNPP_HvP_tlDiVCQmwjDmTUq-oscZGL0kLgdeBUJ9ucbctkYf2A_sV1lYtlPiwrjhXVCz4lbTqoBhTkd3muM8AC1i3-yINJJXZr8oEs95YMUMToXOkCllhG7d050MFPCvSzd-LZCHauQM/s1515/20210104-2.gif" width="500" height="280"><BR>
 
 - 個股集保股權<BR>
-<img src="https://drive.google.com/file/d/1jOEVZCWnUITTdRZemrU-USsDC-5MuMMn/view?usp=sharing" width="500" height="280"><BR>
+<img src="https://drive.google.com/uc?export=view&id=1jOEVZCWnUITTdRZemrU-USsDC-5MuMMn" width="500" height="280"><BR>
 
 - Excel VBA 盤中資料接收與繪圖<BR>
-<img src="https://drive.google.com/file/d/1sAeaaqgY4U030XswOGmcDUswm1mxKPCT/view?usp=sharing" width="500" height="280"><BR>
+<img src="https://drive.google.com/uc?export=view&id=1sAeaaqgY4U030XswOGmcDUswm1mxKPCT" width="500" height="280"><BR>
 
 ### 學術作品
 - 研究所論文 2008/08
