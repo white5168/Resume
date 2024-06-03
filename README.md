@@ -121,20 +121,20 @@
 ### 演講與活動
 - 2019/04 天瓏書局「Excel VBA 實戰技巧｜金融數據x網路爬蟲」[連結](https://tenlong.kktix.cc/events/excelvba)。
 - 
-  ![](https://drive.google.com/file/d/1nXlyuC_OGYo9hPeXIJUmGcm3HflWkjs1/view?usp=sharing)
+  ![](https://drive.google.com/uc?export=view&id=1nXlyuC_OGYo9hPeXIJUmGcm3HflWkjs1)
   
 - 2019/04 高雄科技大學金資系「金融資訊專題講座」。
 
-  ![](https://drive.google.com/file/d/1J1mjhki5Tqk5n33ODay-WLs-ePXsSqu_/view?usp=sharing)
+  ![](https://drive.google.com/uc?export=view&id=1J1mjhki5Tqk5n33ODay-WLs-ePXsSqu_)
   
 - 2018/08 凱基期貨台北總公司「摩台OI與台指對應策略」。
 
-  ![](https://drive.google.com/file/d/1AjPQYyTURibzDyW-tyxF2cbwKdKf5eLW/view?usp=sharing)
+  ![](https://drive.google.com/uc?export=view&id=1AjPQYyTURibzDyW-tyxF2cbwKdKf5eLW)
   
 - 2018/04 群益期貨台北總公司「Python與台股盤後大數據應用」。
 - 2018/02 群益期貨台北總公司「Excel與DDE應用」。
 
-- ![](https://drive.google.com/file/d/1fQT43ano_5nP5McUFVzipXkwpaSRYlM3/view?usp=sharing)
+- ![](https://drive.google.com/uc?export=view&id=1fQT43ano_5nP5McUFVzipXkwpaSRYlM3)
 - 
 - 2016/Q2 凱衛資訊MultiCharts網聚講師。
 - 2016/03  iInfo版聚主持人兼講師
