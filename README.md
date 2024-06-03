@@ -123,10 +123,10 @@
         - 本書榮獲 金石堂網路書店 2019年度百大暢銷書 第4名 [連結](https://drive.google.com/file/d/1CqYSBt2NndtQwLbu80gZwY_IacUM78ZT/view)
         - 本書榮獲 博客來書店 2019年度百大度暢銷書 第19名 [連結](https://drive.google.com/file/d/1n9nsZ8zKCiKoPg9Osdmh5YLZ_oLeWKqO/view)
         - 本書榮獲 天瓏網路書店 2019年度百大度暢銷書 第46名 [連結](https://drive.google.com/file/d/1BwGB4uqmCjqFxQZEWO5UxK5BmY014SHM/view)
-![](https://3.bp.blogspot.com/-yTvx-AseTrc/XJxqThe3QrI/AAAAAAAAKGE/_oRd9PWvB1s5qk2djOtpkErI39WxpmceACKgBGAs/s400/aci031700-1.jpg)
 
-    - - 2021/03/26 [碁峰資訊出版《Python x Excel VBA x JavaScript｜網路爬蟲 x 實戰演練》](https://www.gotop.com.tw/books/bookdetails.aspx?types=a&bn=ICD020100)
-![](https://1.bp.blogspot.com/-8ESEZ77bepk/YFK9zYIBqgI/AAAAAAAANgM/WxrGNMtvyJUtdF7xWam9xvG1IVkYtk8kwCLcBGAsYHQ/w301-h407/ACD020100.jpg)
+	![](https://3.bp.blogspot.com/-yTvx-AseTrc/XJxqThe3QrI/AAAAAAAAKGE/_oRd9PWvB1s5qk2djOtpkErI39WxpmceACKgBGAs/s400/aci031700-1.jpg)
+    - 2021/03/26 [碁峰資訊出版《Python x Excel VBA x JavaScript｜網路爬蟲 x 實戰演練》](https://www.gotop.com.tw/books/bookdetails.aspx?types=a&bn=ICD020100)
+	![](https://1.bp.blogspot.com/-8ESEZ77bepk/YFK9zYIBqgI/AAAAAAAANgM/WxrGNMtvyJUtdF7xWam9xvG1IVkYtk8kwCLcBGAsYHQ/w301-h407/ACD020100.jpg)
 - 影片
     - [2018/03 Excel抓期交所資料自動匯出CSV給MultiCharts](https://youtu.be/c5lnSQEt5tE)
     - [2018/03 MultiCharts結合Excel爬蟲抓取未平倉量資料，再匯入MultiCharts](https://youtu.be/R5Nddl66NqU)
