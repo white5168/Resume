@@ -1,6 +1,6 @@
 # 廖敏宏 (Amin)
 - Education:台灣大學 / 生物產業機電工程學系碩士班
-- Location: 新北市\蘆洲區
+- Location: 新北市
 - E-mail: white_5168@hotmail.com
 - Web: [iInfo 資訊交流](http://white5168.blogspot.com/)
 <hr>
