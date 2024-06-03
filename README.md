@@ -12,6 +12,28 @@
 - 冷凍空調裝修丙級技術士 (1998年 行政院勞工委員會發)
 <hr>
 
+### 工作經歷
+- 凱衛資訊
+    - 期間：2015/10 ~ 迄今
+    - 職位：專案副理
+        - C/C++為主，券商看盤軟體開發與維護。
+        - Android App 看盤軟體開發與維護。
+        - Python 台股盤後資料爬蟲與金融資料庫建置。
+        - Python 盤中與盤後 API 開發。
+        - Excel 與 MultiCharts 整合應用講師。
+- 仁寶電腦
+    - 期間：2008/10 ~ 2015/09
+    - 職位：高級工程師
+        - 工廠產線測試軟體與硬體的維護與開發。
+        - 協助廠商開發ODM/OEM 測試軟體。
+        - C/C++為主，開發Console與GUI軟體，在Winpe、Windows、UEFI上運作。
+- 台北碩士文化教育事業
+    - 期間：2003/09 ~ 2008/07
+    - 職位：業務專員
+    - 協助大學生規劃研究所考試的課程內容與分析各類研究所出路。
+    - 大專院校校園行銷企劃與招生業務。
+<hr>
+
 ### 專業技能
  - 熟悉 Python 開發與教學
  - 熟悉 Excel VBA 
@@ -95,9 +117,9 @@
 ### 個人著作
 - 書籍
     - [2019/03/29碁峰資訊出版《Excel VBA 實戰技巧｜金融數據x網路爬蟲》](Http://books.gotop.com.tw/v_ACI031700 )
-        本書榮獲 金石堂網路書店 2019年度百大暢銷書 第4名 [連結](https://drive.google.com/file/d/1CqYSBt2NndtQwLbu80gZwY_IacUM78ZT/view)
-        本書榮獲 博客來書店 2019年度百大度暢銷書 第19名 [連結](https://drive.google.com/file/d/1n9nsZ8zKCiKoPg9Osdmh5YLZ_oLeWKqO/view)
-        本書榮獲 天瓏網路書店 2019年度百大度暢銷書 第46名 [連結](https://drive.google.com/file/d/1BwGB4uqmCjqFxQZEWO5UxK5BmY014SHM/view)
+        - 本書榮獲 金石堂網路書店 2019年度百大暢銷書 第4名 [連結](https://drive.google.com/file/d/1CqYSBt2NndtQwLbu80gZwY_IacUM78ZT/view)
+        - 本書榮獲 博客來書店 2019年度百大度暢銷書 第19名 [連結](https://drive.google.com/file/d/1n9nsZ8zKCiKoPg9Osdmh5YLZ_oLeWKqO/view)
+        - 本書榮獲 天瓏網路書店 2019年度百大度暢銷書 第46名 [連結](https://drive.google.com/file/d/1BwGB4uqmCjqFxQZEWO5UxK5BmY014SHM/view)
     - [2021/03/26碁峰資訊出版《Python x Excel VBA x JavaScript｜網路爬蟲 x 實戰演練》](http://books.gotop.com.tw/v_ACD020100)
 - 影片
     - [2018/03 Excel抓期交所資料自動匯出CSV給MultiCharts](https://youtu.be/c5lnSQEt5tE)
