@@ -1,5 +1,4 @@
 # 廖敏宏 (Amin)
----
 - Education:台灣大學 / 生物產業機電工程學系碩士班
 - Location: 新北市\蘆洲區
 - E-mail: white_5168@hotmail.com
@@ -83,24 +82,26 @@
         - 2019/08~2019/10 行政院 - 勞動部勞動力發展署北基宜花金馬分署 - 臺灣職能訓練產業工會 台灣文創訓練中心「108 Python大數據金融股票期貨網路爬蟲資料分析實務班第01期124995」[招訓簡章](https://drive.google.com/file/d/1wU12i95zxeaO0nBHgP4THQDgeVp8nkbd/view)。
 
 - 企業內訓
-    - 2023/10/20、2023/10/25 新光銀行「數位關鍵力系列課程 - Excel VBA 超入門實戰」[連結](https://www.facebook.com/photo/?fbid=10225046312925245)。
+    - 新光銀行「數位關鍵力系列課程 - Excel VBA 超入門實戰」2023/10/20、2023/10/25 [連結](https://www.facebook.com/photo/?fbid=10225046312925245)。
 - 大專院校
-    - 2023/02/24、2023/03/03、2023/04/14、2023/0421 輔大經濟系大二「Excel VBA 網路爬蟲、金融數據與視覺化」。
-    - 2022/11/08、2022/11/15、2022/11/22 輔大經濟系大三、四「Python金融數據與視覺化」。
-    - 2022/09/23、2022/10/28、2022/11/11、2022/11/18 輔大經濟大系二「Excel/Excel VBA、Pwer BI整合應用」。
-    - 2022/04/22、2022/04/29、2022/05/06、2022/05/13 輔大經濟系大二「Excel VBA 網路爬蟲、金融數據與視覺化」。
-    - 2021/11/16、2021/11/23、2021/11/30 輔大經濟系大三、四「Python金融數據與視覺化」。
-    - 2021/11/06 成大資料分析社「Excel商業數據分析與Excel VBA爬蟲」講師，部份課程內容影片。
-    - 2019/10 輔大經濟系大三、四「Python金融大數據爬蟲課」。
-    - 2018/10 輔大經濟系大三、四「Python抓取金融數據」。
-    - 2017/12 東吳巨資系「Excel VBA爬蟲」講師。
-    - 2017/10 輔大經濟系大三、四「Python網頁爬蟲」。
+	- 輔大經濟系大二「理財機器人」2024/05/06、2024/05/13、2024/05/20，[連結](https://www.youtube.com/playlist?list=PL54rzwJSiELe9NUYfXkljJtKHConaNioc)。
+	- 輔大社會學院「行銷機器人」2024/05/05、2024/05/12、2024/05/19，[連結](https://www.youtube.com/playlist?list=PL54rzwJSiELerY-ixuSZmftzUd4lDZjQU)。
+    - 輔大經濟系大二「Excel VBA 網路爬蟲、金融數據與視覺化」2023/02/24、2023/03/03、2023/04/14、2023/0421。
+    - 輔大經濟系大三、四「Python金融數據與視覺化」2022/11/08、2022/11/15、2022/11/22。
+    - 輔大經濟大系二「Excel/Excel VBA、Pwer BI整合應用」2022/09/23、2022/10/28、2022/11/11、2022/11/18。
+    - 輔大經濟系大二「Excel VBA 網路爬蟲、金融數據與視覺化」2022/04/22、2022/04/29、2022/05/06、2022/05/13。
+    - 輔大經濟系大三、四「Python金融數據與視覺化」2021/11/16、2021/11/23、2021/11/30。
+    - 成大資料分析社「Excel商業數據分析與Excel VBA爬蟲」講師，部份課程內容影片2021/11/06。
+    - 輔大經濟系大三、四「Python金融大數據爬蟲課」2019/10。
+    - 輔大經濟系大三、四「Python抓取金融數據」2018/10。
+    - 東吳巨資系「Excel VBA爬蟲」講師2017/12。
+    - 輔大經濟系大三、四「Python網頁爬蟲」2017/10。
 - 其他講座
-    - 2021/12/26、2022/03/26 Tibame 「Excel VBA智慧選股與股票財報分析」線上直播課程講師，連結。
-    - 2019/12 T客邦「Python 打造 LINE 股市小秘書，建構股票分析系統、擬定專屬交易策略」連結。
-    - 2019/07 iInfo 「Excel VBA 基礎語法班」連結。
-    - 2019/07 T客邦「Excel VBA 爬蟲實戰技巧，分析網站結構擷取資訊、運用VBA+爬蟲打造數據分析工具」連結。
-    - 2017/08 連結、2017/10 連結、2018/03 連結 凱衛資訊「Excel與MultiCharts結合」講師。
+    - Tibame 「Excel VBA智慧選股與股票財報分析」線上直播課程講師 2021/12/26、2022/03/26 [連結](https://www.tibame.com/course/2670)。
+    - T客邦「Python 打造 LINE 股市小秘書，建構股票分析系統、擬定專屬交易策略」，2019/12 [連結](https://www.techbang.com/posts/74358-course-python-creates-line-stock-market-small-secretary)。
+    - iInfo 「Excel VBA 基礎語法班」，2019/07 [連結](https://www.accupass.com/event/1906211546345814527750)。
+    - T客邦「Excel VBA 爬蟲實戰技巧，分析網站結構擷取資訊、運用VBA+爬蟲打造數據分析工具」，2019/07 [連結](https://www.techbang.com/posts/70771-course-excel-vba-crawler-practical-tips)。
+    - 凱衛資訊「Excel與MultiCharts結合」講師，2017/08 [連結](https://www.multicharts.com.tw/Curriculum/20170819/)、2017/10 [連結](https://www.multicharts.com.tw/Curriculum/20171014/)、2018/03 [連結](https://www.multicharts.com.tw/Curriculum/20180324/) 。
 
 <hr>
 
