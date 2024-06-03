@@ -44,6 +44,17 @@
 <hr>
 
 ### 教學領域
+ - Python 基礎程式設計 
+ - Python 資料處理分析與視覺化呈現 
+ - Python 網路爬蟲 
+ - Python 辦公室自動化 
+ - Python Line 聊天機器人與資料庫 
+ - Python Line聊天機器人結合GhatGPT應用 
+ - Python 金融交易策略量化與策略績效回測 
+ - Excel VBA 基礎入門 
+ - Excel VBA 資料處理分析 
+ - Excel VBA 網路爬蟲 
+ - Excel VBA 辦公室自動化結合GhatGPT應用 
 <hr>
 
 ### 教學經歷
@@ -87,8 +98,8 @@
 - 企業內訓
     - 新光銀行「數位關鍵力系列課程 - Excel VBA 超入門實戰」2023/10/20、2023/10/25 [連結](https://www.facebook.com/photo/?fbid=10225046312925245)。
 - 大專院校
-	- 輔大經濟系大二「理財機器人」2024/05/06、2024/05/13、2024/05/20，[連結](https://www.youtube.com/playlist?list=PL54rzwJSiELe9NUYfXkljJtKHConaNioc)。
-	- 輔大社會學院「行銷機器人」2024/05/05、2024/05/12、2024/05/19，[連結](https://www.youtube.com/playlist?list=PL54rzwJSiELerY-ixuSZmftzUd4lDZjQU)。
+	- 輔大經濟系大二「Line 理財機器人」2024/05/06、2024/05/13、2024/05/20，[連結](https://www.youtube.com/playlist?list=PL54rzwJSiELe9NUYfXkljJtKHConaNioc)。
+	- 輔大社會學院「Line 行銷機器人」2024/05/05、2024/05/12、2024/05/19，[連結](https://www.youtube.com/playlist?list=PL54rzwJSiELerY-ixuSZmftzUd4lDZjQU)。
     - 輔大經濟系大二「Excel VBA 網路爬蟲、金融數據與視覺化」2023/02/24、2023/03/03、2023/04/14、2023/0421。
     - 輔大經濟系大三、四「Python金融數據與視覺化」2022/11/08、2022/11/15、2022/11/22。
     - 輔大經濟大系二「Excel/Excel VBA、Pwer BI整合應用」2022/09/23、2022/10/28、2022/11/11、2022/11/18。
@@ -109,10 +120,22 @@
 
 ### 演講與活動
 - 2019/04 天瓏書局「Excel VBA 實戰技巧｜金融數據x網路爬蟲」[連結](https://tenlong.kktix.cc/events/excelvba)。
+- 
+  ![](https://drive.google.com/file/d/1nXlyuC_OGYo9hPeXIJUmGcm3HflWkjs1/view?usp=sharing)
+  
 - 2019/04 高雄科技大學金資系「金融資訊專題講座」。
+
+  ![](https://drive.google.com/file/d/1J1mjhki5Tqk5n33ODay-WLs-ePXsSqu_/view?usp=sharing)
+  
 - 2018/08 凱基期貨台北總公司「摩台OI與台指對應策略」。
+
+  ![](https://drive.google.com/file/d/1AjPQYyTURibzDyW-tyxF2cbwKdKf5eLW/view?usp=sharing)
+  
 - 2018/04 群益期貨台北總公司「Python與台股盤後大數據應用」。
 - 2018/02 群益期貨台北總公司「Excel與DDE應用」。
+
+- ![](https://drive.google.com/file/d/1fQT43ano_5nP5McUFVzipXkwpaSRYlM3/view?usp=sharing)
+- 
 - 2016/Q2 凱衛資訊MultiCharts網聚講師。
 - 2016/03  iInfo版聚主持人兼講師
 <hr>
@@ -130,20 +153,20 @@
       
 	![](https://1.bp.blogspot.com/-8ESEZ77bepk/YFK9zYIBqgI/AAAAAAAANgM/WxrGNMtvyJUtdF7xWam9xvG1IVkYtk8kwCLcBGAsYHQ/w301-h407/ACD020100.jpg)
 - 影片
-    - [2018/03 Excel抓期交所資料自動匯出CSV給MultiCharts](https://youtu.be/c5lnSQEt5tE)
-    - [2018/03 MultiCharts結合Excel爬蟲抓取未平倉量資料，再匯入MultiCharts](https://youtu.be/R5Nddl66NqU)
-    - [2018/03 Excel VBA 爬蟲抓期交所三大法人未平倉量](https://youtu.be/ZCe42oyHSeQ)
-    - [2017/06 不產生CSV檔，直接使用 Excel 外資期貨未平倉量在MultiCharts以指標方式呈現](https://youtu.be/op7WUq6KRHk)
-    - [2017/06 Excel VBA + Google Sheet + Google Apps Script 整合應用](https://youtu.be/q2cpO3Tg5N0)
-    - [2017/03 透過Chrome取得 元大台灣卓越50基金 (0050) 成分股列表連結](https://youtu.be/yegOSwmkKWQ)
-    - [2017/01 MultiChart結合Google推播傳送下單訊息](https://youtu.be/0HTuYTtAacU)
-    - [2017/01 Line Notify應用：盤後資料通知](https://youtu.be/I4FBbrXX4sE)
-    - [2017/06 Line Notify與Google Apps Script (GAS) 的結合應用](https://youtu.be/1_1xKeaSulA)
-    - [2017/01 MultiCharts + DLL + Line Notify 做到盤中及時下單通知](https://youtu.be/0g7R1Xl-auA)
-    - [2016/12 建立Line Notify傳送訊息環境與傳送文字](https://youtu.be/Pl8S8-dKwsA)
-    - [2016/07 MultiCharts動態載入資料](https://youtu.be/Ojlsw5NyNYA)
-    - [2016/04 同時開啟2個以上的Excel去抓取網頁資料](https://youtu.be/AAaGoJt5hiQ)
-    - [2015/05使用Fiddler抓取網頁資料](https://youtu.be/xS2AkysEEDo)
+    - 2018/03 [Excel抓期交所資料自動匯出CSV給MultiCharts](https://youtu.be/c5lnSQEt5tE)
+    - 2018/03 [MultiCharts結合Excel爬蟲抓取未平倉量資料，再匯入MultiCharts](https://youtu.be/R5Nddl66NqU)
+    - 2018/03 [Excel VBA 爬蟲抓期交所三大法人未平倉量](https://youtu.be/ZCe42oyHSeQ)
+    - 2017/06 [不產生CSV檔，直接使用 Excel 外資期貨未平倉量在MultiCharts以指標方式呈現](https://youtu.be/op7WUq6KRHk)
+    - 2017/06 [Excel VBA + Google Sheet + Google Apps Script 整合應用](https://youtu.be/q2cpO3Tg5N0)
+    - 2017/03 [透過Chrome取得 元大台灣卓越50基金 (0050) 成分股列表連結](https://youtu.be/yegOSwmkKWQ)
+    - 2017/01 [MultiChart結合Google推播傳送下單訊息](https://youtu.be/0HTuYTtAacU)
+    - 2017/01 [Line Notify應用：盤後資料通知](https://youtu.be/I4FBbrXX4sE)
+    - 2017/06 [Line Notify與Google Apps Script (GAS) 的結合應用](https://youtu.be/1_1xKeaSulA)
+    - 2017/01 [MultiCharts + DLL + Line Notify 做到盤中及時下單通知](https://youtu.be/0g7R1Xl-auA)
+    - 2016/12 [建立Line Notify傳送訊息環境與傳送文字](https://youtu.be/Pl8S8-dKwsA)
+    - 2016/07 [MultiCharts動態載入資料](https://youtu.be/Ojlsw5NyNYA)
+    - 2016/04 [同時開啟2個以上的Excel去抓取網頁資料](https://youtu.be/AAaGoJt5hiQ)
+    - 2015/05 [使用Fiddler抓取網頁資料](https://youtu.be/xS2AkysEEDo)
 <hr>
 
 ### 工作作品
@@ -168,4 +191,3 @@
 	- 指導教授：陳倩瑜教授 (現從台大借調 台灣人工智慧實驗室 服務)
 	- 論文題目：使用ab initio結構預測方法建構蛋白質功能區結構模型之研究(Constructing Structural Model of Protein Functional Domains using ab initio Structure Prediction)
 	- 連結：[Https://hdl.handle.net/11296/29qskk](Https://hdl.handle.net/11296/29qskk)
-
