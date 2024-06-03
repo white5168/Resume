@@ -36,8 +36,8 @@
 ### 專業技能
  - 熟悉 Python 開發與教學
  - 熟悉 Excel VBA 
- - 熟悉 C/C++ 開發 Client Ap
- - 熟悉 C 開發Server Ap
+ - 熟悉 C/C++ 開發 Client ap
+ - 熟悉 C 開發 Server ap
  - 熟悉 Google Apps Script開發 Google 雲端應用程式
  - 熟悉 Batch開發自動化流程
  - 能使用Android開發手機App
@@ -117,11 +117,11 @@
 
 ### 個人著作
 - 書籍
-    - [2019/03/29碁峰資訊出版《Excel VBA 實戰技巧｜金融數據x網路爬蟲》](Http://books.gotop.com.tw/v_ACI031700 )
+    - 2019/03/29 [碁峰資訊出版《Excel VBA 實戰技巧｜金融數據x網路爬蟲》](Http://books.gotop.com.tw/v_ACI031700)
         - 本書榮獲 金石堂網路書店 2019年度百大暢銷書 第4名 [連結](https://drive.google.com/file/d/1CqYSBt2NndtQwLbu80gZwY_IacUM78ZT/view)
         - 本書榮獲 博客來書店 2019年度百大度暢銷書 第19名 [連結](https://drive.google.com/file/d/1n9nsZ8zKCiKoPg9Osdmh5YLZ_oLeWKqO/view)
         - 本書榮獲 天瓏網路書店 2019年度百大度暢銷書 第46名 [連結](https://drive.google.com/file/d/1BwGB4uqmCjqFxQZEWO5UxK5BmY014SHM/view)
-    - [2021/03/26碁峰資訊出版《Python x Excel VBA x JavaScript｜網路爬蟲 x 實戰演練》](http://books.gotop.com.tw/v_ACD020100)
+    - - 2021/03/26 [碁峰資訊出版《Python x Excel VBA x JavaScript｜網路爬蟲 x 實戰演練》](https://www.gotop.com.tw/books/bookdetails.aspx?types=a&bn=ICD020100)
 - 影片
     - [2018/03 Excel抓期交所資料自動匯出CSV給MultiCharts](https://youtu.be/c5lnSQEt5tE)
     - [2018/03 MultiCharts結合Excel爬蟲抓取未平倉量資料，再匯入MultiCharts](https://youtu.be/R5Nddl66NqU)
