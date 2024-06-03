@@ -154,7 +154,7 @@
 
 ### 學術作品
 - 研究所論文 2008/08
-        - 指導教授：陳倩瑜教授 (現從台大借調 台灣人工智慧實驗室 服務)
-            - 論文題目：使用ab initio結構預測方法建構蛋白質功能區結構模型之研究
-            - Constructing Structural Model of Protein Functional Domains using ab initio Structure Prediction
-            - 連結：[Https://hdl.handle.net/11296/29qskk](Https://hdl.handle.net/11296/29qskk)
+	- 指導教授：陳倩瑜教授 (現從台大借調 台灣人工智慧實驗室 服務)
+	- 論文題目：使用ab initio結構預測方法建構蛋白質功能區結構模型之研究(Constructing Structural Model of Protein Functional Domains using ab initio Structure Prediction)
+	- 連結：[Https://hdl.handle.net/11296/29qskk](Https://hdl.handle.net/11296/29qskk)
+
