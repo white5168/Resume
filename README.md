@@ -29,8 +29,8 @@
 - 台北碩士文化教育事業
     - 期間：2003/09 ~ 2008/07
     - 職位：業務專員
-    - 協助大學生規劃研究所考試的課程內容與分析各類研究所出路。
-    - 大專院校校園行銷企劃與招生業務。
+    	- 協助大學生規劃研究所考試的課程內容與分析各類研究所出路。
+    	- 大專院校校園行銷企劃與招生業務。
 <hr>
 
 ### 專業技能
@@ -41,6 +41,9 @@
  - 熟悉 Google Apps Script開發 Google 雲端應用程式
  - 熟悉 Batch開發自動化流程
  - 能使用Android開發手機App
+<hr>
+
+### 教學領域
 <hr>
 
 ### 教學經歷
@@ -102,7 +105,6 @@
     - iInfo 「Excel VBA 基礎語法班」，2019/07 [連結](https://www.accupass.com/event/1906211546345814527750)。
     - T客邦「Excel VBA 爬蟲實戰技巧，分析網站結構擷取資訊、運用VBA+爬蟲打造數據分析工具」，2019/07 [連結](https://www.techbang.com/posts/70771-course-excel-vba-crawler-practical-tips)。
     - 凱衛資訊「Excel與MultiCharts結合」講師，2017/08 [連結](https://www.multicharts.com.tw/Curriculum/20170819/)、2017/10 [連結](https://www.multicharts.com.tw/Curriculum/20171014/)、2018/03 [連結](https://www.multicharts.com.tw/Curriculum/20180324/) 。
-
 <hr>
 
 ### 演講與活動
@@ -121,7 +123,9 @@
         - 本書榮獲 金石堂網路書店 2019年度百大暢銷書 第4名 [連結](https://drive.google.com/file/d/1CqYSBt2NndtQwLbu80gZwY_IacUM78ZT/view)
         - 本書榮獲 博客來書店 2019年度百大度暢銷書 第19名 [連結](https://drive.google.com/file/d/1n9nsZ8zKCiKoPg9Osdmh5YLZ_oLeWKqO/view)
         - 本書榮獲 天瓏網路書店 2019年度百大度暢銷書 第46名 [連結](https://drive.google.com/file/d/1BwGB4uqmCjqFxQZEWO5UxK5BmY014SHM/view)
+    ![](https://3.bp.blogspot.com/-yTvx-AseTrc/XJxqThe3QrI/AAAAAAAAKGE/_oRd9PWvB1s5qk2djOtpkErI39WxpmceACKgBGAs/s400/aci031700-1.jpg)
     - - 2021/03/26 [碁峰資訊出版《Python x Excel VBA x JavaScript｜網路爬蟲 x 實戰演練》](https://www.gotop.com.tw/books/bookdetails.aspx?types=a&bn=ICD020100)
+    ![](https://1.bp.blogspot.com/-8ESEZ77bepk/YFK9zYIBqgI/AAAAAAAANgM/WxrGNMtvyJUtdF7xWam9xvG1IVkYtk8kwCLcBGAsYHQ/w301-h407/ACD020100.jpg)
 - 影片
     - [2018/03 Excel抓期交所資料自動匯出CSV給MultiCharts](https://youtu.be/c5lnSQEt5tE)
     - [2018/03 MultiCharts結合Excel爬蟲抓取未平倉量資料，再匯入MultiCharts](https://youtu.be/R5Nddl66NqU)
@@ -140,16 +144,20 @@
 <hr>
 
 ### 工作作品
-- 個股基本面分析<BR>
+- 個股基本面分析
+	- 以 C++ 開發整個畫面，串接Client - Server 到畫面所有功能的連動 <BR>
 <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi9i1c18JWTX_BqHlRsrqMOcYRk-us5z-T_YTQNEzDH4ONAw3e_hL-AnU4Ki5bcncqXJhNGXCY1QlrP2VesZUxJWySsXFTtAwJj3kXUObTnrc-ovOZeAy-s6bgZNd2CtLau5EsRGtjPF2k/s1515/20210104-1.gif" width="500" height="280"><BR>
 
-- 個股財報指標比較<BR>
+- 個股財報指標比較
+	- 以 C++ 開發整個畫面，串接Client - Server 到畫面所有功能的連動 <BR>
 <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiNPP_HvP_tlDiVCQmwjDmTUq-oscZGL0kLgdeBUJ9ucbctkYf2A_sV1lYtlPiwrjhXVCz4lbTqoBhTkd3muM8AC1i3-yINJJXZr8oEs95YMUMToXOkCllhG7d050MFPCvSzd-LZCHauQM/s1515/20210104-2.gif" width="500" height="280"><BR>
 
-- 個股集保股權<BR>
+- 個股集保股權
+	- 以 C++ 開發整個畫面，串接Client - Server 到畫面所有功能的連動 <BR>
 <img src="https://drive.google.com/uc?export=view&id=1jOEVZCWnUITTdRZemrU-USsDC-5MuMMn" width="500" height="280"><BR>
 
-- Excel VBA 盤中資料接收與繪圖<BR>
+- Excel VBA 盤中資料接收與繪圖
+	- 以 Excel VBA 開發整個畫面，串接看盤軟的 DDE 到畫面所有功能的連動 <BR>
 <img src="https://drive.google.com/uc?export=view&id=1sAeaaqgY4U030XswOGmcDUswm1mxKPCT" width="500" height="280"><BR>
 
 ### 學術作品
