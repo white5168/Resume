@@ -1,5 +1,5 @@
 # 廖敏宏 (Amin)
-- Education:台灣大學 / 生物產業機電工程學系碩士班
+- Education:[台灣大學 / 生物產業機電工程學系碩士班](https://www.bime.ntu.edu.tw/Default.html)
 - Location: 新北市
 - E-mail: white_5168@hotmail.com
 - Blog: [iInfo 資訊交流](http://white5168.blogspot.com/)
@@ -12,7 +12,7 @@
 <hr>
 
 ### 工作經歷
-- 凱衛資訊
+- [凱衛資訊](http://www.kway.com.tw/)
     - 期間：2015/10 ~ 迄今
     - 職位：專案副理
         - C/C++為主，券商看盤軟體開發與維護。
@@ -20,7 +20,7 @@
         - Python 台股盤後資料爬蟲與金融資料庫建置。
         - Python 盤中與盤後 API 開發。
         - Excel 與 MultiCharts 整合應用講師。
-- 仁寶電腦
+- [仁寶電腦](https://www.compal.com/)
     - 期間：2008/10 ~ 2015/09
     - 職位：高級工程師
         - 工廠產線測試軟體與硬體的維護與開發。
