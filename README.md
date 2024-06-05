@@ -30,7 +30,7 @@
 <hr>
 
 ### 自我介紹
-我畢業於[台大生機所](https://www.bime.ntu.edu.tw/Default.html)，主修蛋白質摺疊預測領域，念書期間在[台灣知識庫](https://www.tkb.com.tw/)旗下的碩士文化教育事業，擔任校園企劃與協助大學生規劃升研究所課程，碩士畢業後進入仁寶電腦任職軟體工程師，工作內容為開發產品生產線自動化測試軟體，並協助廠商開發OEM/ODM測試軟體，後來因為對金融交易領域感興趣，輾轉進入凱衛資訊任職，主要業務為開發看盤軟體與維護盤後網路資料工作。
+我畢業於[台大生機所](https://www.bime.ntu.edu.tw/Default.html)，主修蛋白質摺疊預測領域，念書期間在[台灣知識庫](https://www.tkb.com.tw/)旗下的碩士文化教育事業，擔任校園企劃與協助大學生規劃升研究所課程，碩士畢業後進入[仁寶電腦](https://www.compal.com/)任職軟體工程師，工作內容為開發產品生產線自動化測試軟體，並協助廠商開發OEM/ODM測試軟體，後來因為對金融交易領域感興趣，輾轉進入[凱衛資訊](http://www.kway.com.tw/)任職，主要業務為開發看盤軟體與維護盤後網路資料工作。
 
 平時在下班的閒暇之餘裡，自己對於新奇事物會持續花時間做研究，累積個人的專業知識與技能，亦將研究過程中的成果逐一記錄並分享於網路個人部落格上[iInfo 資訊交流](http://white5168.blogspot.com/)，因此在網路上結交了許多專業同好一起研究。在2017年開始陸續收到幾所大專院校(輔大、文化、實踐、師大等...)與民間單位向勞發署申請的「產業人才投資計畫」課程教學邀約，至此開啟了教學的斜槓職涯，並於空閒時間撰寫書籍，在2019年、2021年分別出版個人著作《Excel VBA 實戰技巧｜金融數據x網路爬蟲》、《Python x Excel VBA x JavaScript｜網路爬蟲x實戰演練》等書。
 
@@ -102,7 +102,7 @@
     - 2015/05 [使用Fiddler抓取網頁資料](https://youtu.be/xS2AkysEEDo)
 
 - 研究所論文 2008/08
-	- 指導教授：陳倩瑜教授 (現從台大借調 台灣人工智慧實驗室 服務)
+	- 指導教授：陳倩瑜教授
 	- 論文題目：使用ab initio結構預測方法建構蛋白質功能區結構模型之研究(Constructing Structural Model of Protein Functional Domains using ab initio Structure Prediction)
 	- 連結：[Https://hdl.handle.net/11296/29qskk](Https://hdl.handle.net/11296/29qskk)
 <hr>
@@ -188,6 +188,8 @@
     - 新光銀行「數位關鍵力系列課程 - Excel VBA 超入門實戰」2023/10/20、2023/10/25 [連結](https://www.facebook.com/photo/?fbid=10225046312925245)。
 
 - 大專院校
+    - 師大推廣部
+		- 「Python程式設計入門班 」2024/2/16 ~ 2024/5/31。
     - 輔仁大學
 		- 經濟系大二「Line 理財機器人」2024/05/06、2024/05/13、2024/05/20，[連結](https://www.youtube.com/playlist?list=PL54rzwJSiELe9NUYfXkljJtKHConaNioc)。
 		- 社會學院「Line 行銷機器人」2024/05/05、2024/05/12、2024/05/19，[連結](https://www.youtube.com/playlist?list=PL54rzwJSiELerY-ixuSZmftzUd4lDZjQU)。
