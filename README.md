@@ -74,16 +74,16 @@
 
 ### 個人著作
 - 書籍
+    - 2021/03/26 [碁峰資訊出版《Python x Excel VBA x JavaScript｜網路爬蟲 x 實戰演練》](https://www.gotop.com.tw/books/bookdetails.aspx?types=a&bn=ICD020100)
+
+	![](https://1.bp.blogspot.com/-8ESEZ77bepk/YFK9zYIBqgI/AAAAAAAANgM/WxrGNMtvyJUtdF7xWam9xvG1IVkYtk8kwCLcBGAsYHQ/w301-h407/ACD020100.jpg)
+
     - 2019/03/29 [碁峰資訊出版《Excel VBA 實戰技巧｜金融數據x網路爬蟲》](Http://books.gotop.com.tw/v_ACI031700)
         - 本書榮獲 金石堂網路書店 2019年度百大暢銷書 第4名 [連結](https://drive.google.com/file/d/1CqYSBt2NndtQwLbu80gZwY_IacUM78ZT/view)
         - 本書榮獲 博客來書店 2019年度百大度暢銷書 第19名 [連結](https://drive.google.com/file/d/1n9nsZ8zKCiKoPg9Osdmh5YLZ_oLeWKqO/view)
         - 本書榮獲 天瓏網路書店 2019年度百大度暢銷書 第46名 [連結](https://drive.google.com/file/d/1BwGB4uqmCjqFxQZEWO5UxK5BmY014SHM/view)
 
 	![](https://3.bp.blogspot.com/-yTvx-AseTrc/XJxqThe3QrI/AAAAAAAAKGE/_oRd9PWvB1s5qk2djOtpkErI39WxpmceACKgBGAs/s400/aci031700-1.jpg)
-
-    - 2021/03/26 [碁峰資訊出版《Python x Excel VBA x JavaScript｜網路爬蟲 x 實戰演練》](https://www.gotop.com.tw/books/bookdetails.aspx?types=a&bn=ICD020100)
-
-	![](https://1.bp.blogspot.com/-8ESEZ77bepk/YFK9zYIBqgI/AAAAAAAANgM/WxrGNMtvyJUtdF7xWam9xvG1IVkYtk8kwCLcBGAsYHQ/w301-h407/ACD020100.jpg)
 
 - 影片
     - 2018/03 [Excel抓期交所資料自動匯出CSV給MultiCharts](https://youtu.be/c5lnSQEt5tE)
@@ -131,58 +131,58 @@
 - 勞動部 - 產業人才投資計畫
     - 2024年度課程
         - 臺灣職能訓練產業工會 台灣文創訓練中心
-        	- 2024/06/14~2024/08/11 (週五、週日) 「113-157277 以Python融合AI ChatGPT打造Line Bot機器人大腦班第01期 - 113年政策性計畫 - 54小時」[招生簡章](https://drive.google.com/file/d/1BDkRKOd2cQ-wYBxM6cNDBX0TkQN9CnVW/view)。
-        	- 2024/02/03~2024/03/23 (週六) 「112-150408 Python Line Bot機器人與資料庫整合實務班第01期 - 112年政策性計畫 - 42小時」招生簡章。
-        	- 2024/01/22~2024/03/13 (週一、週三) 「112-150405 Python資料科學分析程式設計進階班第01期 - 112年政策性計畫 - 42小時」[招生簡章](https://drive.google.com/file/d/1H5ajSs7l0LOlyRkk3pRcQHGxhBuXcAOg/view)。
+        	- 「113-157277 以Python融合AI ChatGPT打造Line Bot機器人大腦班第01期 - 113年政策性計畫 - 54小時」 2024/06/14~2024/08/11 (週五、週日) [招生簡章](https://drive.google.com/file/d/1BDkRKOd2cQ-wYBxM6cNDBX0TkQN9CnVW/view)。
+        	- 「112-150408 Python Line Bot機器人與資料庫整合實務班第01期 - 112年政策性計畫 - 42小時」 2024/02/03~2024/03/23 (週六) 招生簡章。
+        	- 「112-150405 Python資料科學分析程式設計進階班第01期 - 112年政策性計畫 - 42小時」 2024/01/22~2024/03/13 (週一、週三) [招生簡章](https://drive.google.com/file/d/1H5ajSs7l0LOlyRkk3pRcQHGxhBuXcAOg/view)。
 
         - 臺灣勞動力服務人員職業工會聯合會
-        	- 2024/04/27~2024/06/22 (週六) 「113-155081 Python大數據程式設計與資料分析應用班 - 113上半年計畫 - 48小時」[招生簡章](https://drive.google.com/file/d/1JxRrrULTwGtrcNEhxgz72Jm42f4YWUuf/view)
-        	- 2024/04/15~2024/07/22 (週一) 「113-155077 Python資料科學分析、視覺化呈現與資料庫班 - 113上半年計畫 - 42小時」[招生簡章](https://drive.google.com/file/d/1qs_Uhr3fbvtLqskXwYgYQTXvWk7WXqtp/view)。
+        	- 「113-155081 Python大數據程式設計與資料分析應用班 - 113上半年計畫 - 48小時」 2024/04/27~2024/06/22 (週六) [招生簡章](https://drive.google.com/file/d/1JxRrrULTwGtrcNEhxgz72Jm42f4YWUuf/view)
+        	- 「113-155077 Python資料科學分析、視覺化呈現與資料庫班 - 113上半年計畫 - 42小時」 2024/04/15~2024/07/22 (週一) [招生簡章](https://drive.google.com/file/d/1qs_Uhr3fbvtLqskXwYgYQTXvWk7WXqtp/view)。
 	
         - 文化大學推廣部
-        	- 2024/03/03~2024/04/28 (週日) 「112-150203 Python AI金融數據爬蟲與量化分析應用實務班第01期 - 112政策性計畫 54小時」[招生簡章](https://drive.google.com/file/d/18KIhG-te51_dU_9pxkKffz_bfReXxpfl/view)。
+        	- 「112-150203 Python AI金融數據爬蟲與量化分析應用實務班第01期 - 112政策性計畫 54小時」 2024/03/03~2024/04/28 (週日) [招生簡章](https://drive.google.com/file/d/18KIhG-te51_dU_9pxkKffz_bfReXxpfl/view)。
 
     - 2023年度課程
         - 臺灣職能訓練產業工會 台灣文創訓練中心
-	        - 2023/12/24~2024/02/18 (週日) 「112-150406 Python資料科學分析、視覺化呈現與資料庫實務班第01期 - 112年政策性計畫 - 42小時」[招生簡章](https://drive.google.com/file/d/10CFA9l1Ab7xpcEKO4eEPJAGHy7qG8wxe/view)。
-	        - 2023/12/21~2024/02/29 (週二、週四) 「112-151819 以Python融合AI ChatGPT打造Line Bot機器人大腦班第01期 - 112年政策性計畫 - 54小時」[招生簡章](https://drive.google.com/file/d/1SupSo3Bx9Lus9ylaDcJjE1DC8_wxvqva/view)。
-	        - 2023/11/20~2024/01/08 (週一、週三) 「112-150407 Python網路爬蟲自動化班第01期 - 112年政策性計畫 - 42小時」[招生簡章](https://drive.google.com/file/d/1xoJFLCoxXaQVNR8H5OtFkE4gChYOVr1P/view)。
-	        - 2023/10/19~2023/12/19 (週二、週四) 「112-151811 以Python融合AI ChatGPT打造Line Bot機器人大腦班第01期 - 112年政策性計畫 - 54小時」[招生簡章](https://drive.google.com/file/d/1TcItv1MwIEk-HqT4dI22uwFB4n9Ffbc2/view)。
-	        - 2023/10/15~2023/12/10 (週日) 「Python大數據金融股票期貨網路爬蟲資料分析實務班第01期 - 112年政策性計畫 - 54小時」[招生簡章](https://drive.google.com/file/d/1J8MnoC1CL93Gkj8kiyYexxfV4Zds3k5g/view)。
-        	- 2023/08/01~2023/09/14 (週二、週四) 「Python量化分析交易策略與串接券商API實務班第01期 - 112年政策性計畫 - 42小時」[招生簡章](https://drive.google.com/file/d/1n34CgxjusGdtYHvvzS3hTHIVfQo7rXdc/view)。
-        	- 2023/05/14~2023/07/23 (週日) 「112-149823 Python大數據金融股票期貨網路爬蟲資料分析實務班第01期 - 112上半年計畫 - 54小時」 [招訓簡章](https://drive.google.com/file/d/1yio8orP_oxsiDkMpiuoILKzRxNAPpgAp/view)。
+	        - 「112-150406 Python資料科學分析、視覺化呈現與資料庫實務班第01期 - 112年政策性計畫 - 42小時」 2023/12/24~2024/02/18 (週日) [招生簡章](https://drive.google.com/file/d/10CFA9l1Ab7xpcEKO4eEPJAGHy7qG8wxe/view)。
+	        - 「112-151819 以Python融合AI ChatGPT打造Line Bot機器人大腦班第01期 - 112年政策性計畫 - 54小時」 2023/12/21~2024/02/29 (週二、週四) [招生簡章](https://drive.google.com/file/d/1SupSo3Bx9Lus9ylaDcJjE1DC8_wxvqva/view)。
+	        - 「112-150407 Python網路爬蟲自動化班第01期 - 112年政策性計畫 - 42小時」 2023/11/20~2024/01/08 (週一、週三) [招生簡章](https://drive.google.com/file/d/1xoJFLCoxXaQVNR8H5OtFkE4gChYOVr1P/view)。
+	        - 「112-151811 以Python融合AI ChatGPT打造Line Bot機器人大腦班第01期 - 112年政策性計畫 - 54小時」 2023/10/19~2023/12/19 (週二、週四) [招生簡章](https://drive.google.com/file/d/1TcItv1MwIEk-HqT4dI22uwFB4n9Ffbc2/view)。
+	        - 「112-150403 Python大數據金融股票期貨網路爬蟲資料分析實務班第01期 - 112年政策性計畫 - 54小時」 2023/10/15~2023/12/10 (週日) [招生簡章](https://drive.google.com/file/d/1J8MnoC1CL93Gkj8kiyYexxfV4Zds3k5g/view)。
+        	- 「112-150404 Python量化分析交易策略與串接券商API實務班第01期 - 112年政策性計畫 - 42小時」 2023/08/01~2023/09/14 (週二、週四) [招生簡章](https://drive.google.com/file/d/1n34CgxjusGdtYHvvzS3hTHIVfQo7rXdc/view)。
+        	- 「112-149823 Python大數據金融股票期貨網路爬蟲資料分析實務班第01期 - 112上半年計畫 - 54小時」 2023/05/14~2023/07/23 (週日) [招訓簡章](https://drive.google.com/file/d/1yio8orP_oxsiDkMpiuoILKzRxNAPpgAp/view)。
 
         - 臺灣勞動力服務人員職業工會聯合會
-        	- 2023/08/30 ~ 2023/11/01 (週三) 「112-152374 Python網路爬蟲資料處理實務班 - 112年政策性計畫 - 30小時」 [招訓簡章](https://drive.google.com/file/d/1yio8orP_oxsiDkMpiuoILKzRxNAPpgAp/view)。
-        	- 2023/04/12 ~ 2023/07/12 (週三) 「112-147548 Python資料科學分析、視覺化呈現與資料庫班 - 112上半年計畫  - 42小時」 [招訓簡章](https://drive.google.com/file/d/1VcDJczhdMHIySajMf7meyhVMWB1xLcZr/view)。
+        	- 「112-152374 Python網路爬蟲資料處理實務班 - 112年政策性計畫 - 30小時」 2023/08/30 ~ 2023/11/01 (週三) [招訓簡章](https://drive.google.com/file/d/1yio8orP_oxsiDkMpiuoILKzRxNAPpgAp/view)。
+        	- 「112-147548 Python資料科學分析、視覺化呈現與資料庫班 - 112上半年計畫  - 42小時」 2023/04/12 ~ 2023/07/12 (週三) [招訓簡章](https://drive.google.com/file/d/1VcDJczhdMHIySajMf7meyhVMWB1xLcZr/view)。
 
         - 文化大學推廣部
-        	- 2023/12/02~2024/01/27 (週六) 「112-150201 Line Bot聊天機器人自動化應用實務班 - 112年政策性計畫 - 48小時」[招生簡章](https://drive.google.com/file/d/1xmMJD2pvjKmCNhre4W66n62KaoTPDYZw/view)。
-        	- 2023/10/07~2023/11/25 (週六) 「112-150198 Python大數據資料分析及視覺化呈現數據應用班 - 112年政策性計畫 - 48小時」[招生簡章](https://drive.google.com/file/d/1TcSHdQZ1vFdngFxrhBnO0gcnTe4sqTs1/view)。
-        	- 2023/08/06~2023/09/24 (週日) 「Python AI大數據程式設計與資料分析應用班 - 112年政策性計畫 - 42小時」[招生簡章](https://drive.google.com/file/d/1drmd44S-aPRmvjiaiD7D_odttDqiTeI4/view)。
+        	- 「112-150201 Line Bot聊天機器人自動化應用實務班 - 112年政策性計畫 - 48小時」 2023/12/02~2024/01/27 (週六) [招生簡章](https://drive.google.com/file/d/1xmMJD2pvjKmCNhre4W66n62KaoTPDYZw/view)。
+        	- 「112-150198 Python大數據資料分析及視覺化呈現數據應用班 - 112年政策性計畫 - 48小時」 2023/10/07~2023/11/25 (週六) [招生簡章](https://drive.google.com/file/d/1TcSHdQZ1vFdngFxrhBnO0gcnTe4sqTs1/view)。
+        	- 「112-150197 Python AI大數據程式設計與資料分析應用班 - 112年政策性計畫 - 42小時」 2023/08/06~2023/09/24 (週日) [招生簡章](https://drive.google.com/file/d/1drmd44S-aPRmvjiaiD7D_odttDqiTeI4/view)。
 
         - 實踐大學推廣部
-        	- 2023/07/01~2023/08/19 (週六) 「Python程式設計與網路爬蟲資料分析應用班第01期 - 112年政策性計畫 - 48小時」[招生簡章](https://drive.google.com/file/d/1LHFek9RkfZJMTopON3eUcg_SmyipIorL/view)。
+        	- 「112-150183 Python程式設計與網路爬蟲資料分析應用班第01期 - 112年政策性計畫 - 48小時」 2023/07/01~2023/08/19 (週六) [招生簡章](https://drive.google.com/file/d/1LHFek9RkfZJMTopON3eUcg_SmyipIorL/view)。
 
     - 2022年課程
         - 財團法人中國生產力中心 台北承德訓練中心
-	        - 2022/09/03 ~ 2022/10/22 「111 - 143572 Python自動化line機器人與資料庫整合實務班 - 111年政策性計畫 - 42小時」(整班為遠距教學) [招訓簡章](https://drive.google.com/file/d/1HIRyiKkXteNjvrsYywSmW8ztMePGCWBm/view)。
+	        - 「111-143572 Python自動化line機器人與資料庫整合實務班 - 111年政策性計畫 - 42小時」(整班為遠距教學) 2022/09/03 ~ 2022/10/22 [招訓簡章](https://drive.google.com/file/d/1HIRyiKkXteNjvrsYywSmW8ztMePGCWBm/view)。
             
         - 臺灣勞動力服務人員職業工會聯合會
-        	- 2022/08/17~2022/12/14 (週三) 「111 - 144383 Python程式設計與資料分析應用班 - 111下半年計畫 - 54小時」 [招訓簡章](https://drive.google.com/file/d/1JUwyygsMj8j_uSrgkDndFKmoi4CzH7Xs/view)。
+        	- 「111-144383 Python程式設計與資料分析應用班 - 111下半年計畫 - 54小時」 2022/08/17~2022/12/14 (週三) [招訓簡章](https://drive.google.com/file/d/1JUwyygsMj8j_uSrgkDndFKmoi4CzH7Xs/view)。
 
     - 2021年度課程
         - 臺灣職能訓練產業工會 台灣文創訓練中心
-	        - 2021/07~2021/08 「110 - 136161 Python大數據金融股票期貨網路爬蟲資料分析實務班第02期」(因應疫情，採以線上直播遠距教學) [招訓簡章](https://drive.google.com/file/d/1rBQ0sMamMyO7r1Kgfo8R-aNTLaEuj5Uh/view)。
-	        - 2021/06~2021/08 「110 - 134556 Python大數據金融股票期貨網路爬蟲資料分析實務班第01期」(因應疫情，採以線上直播遠距教學) [招訓簡章](https://drive.google.com/file/d/1WQkkfSlOIkNE2gCqwi-dLQyRhZkijlov/view)。
+	        - 「110-136161 Python大數據金融股票期貨網路爬蟲資料分析實務班第02期」(因應疫情，採以線上直播遠距教學) 2021/07~2021/08 [招訓簡章](https://drive.google.com/file/d/1rBQ0sMamMyO7r1Kgfo8R-aNTLaEuj5Uh/view)。
+	        - 「110-134556 Python大數據金融股票期貨網路爬蟲資料分析實務班第01期」(因應疫情，採以線上直播遠距教學) 2021/06~2021/08 [招訓簡章](https://drive.google.com/file/d/1WQkkfSlOIkNE2gCqwi-dLQyRhZkijlov/view)。
 
     - 2020年課程
         - 臺灣職能訓練產業工會 台灣文創訓練中心
-	        - 2020/10~2020/12 「109 Python大數據金融股票期貨網路爬蟲資料分析實務班第02期」。
-	        - 2020/02~2020/05 「109 - 127617 Python大數據金融股票期貨網路爬蟲資料分析實務班第01期」[招訓簡章](https://www.tpqc.com.tw/python%E5%A4%A7%E6%95%B8%E6%93%9A%E9%87%91%E8%9E%8D%E8%82%A1%E7%A5%A8%E6%9C%9F%E8%B2%A8%E7%B6%B2%E8%B7%AF%E7%88%AC%E8%9F%B2%E8%B3%87%E6%96%99%E5%88%86%E6%9E%90%E5%AF%A6%E5%8B%99%E7%8F%AD%E7%AC%AC01-2/)。
+	        - 「109 Python大數據金融股票期貨網路爬蟲資料分析實務班第02期」 2020/10~2020/12 。
+	        - 「109-127617 Python大數據金融股票期貨網路爬蟲資料分析實務班第01期」 2020/02~2020/05 [招訓簡章](https://www.tpqc.com.tw/python%E5%A4%A7%E6%95%B8%E6%93%9A%E9%87%91%E8%9E%8D%E8%82%A1%E7%A5%A8%E6%9C%9F%E8%B2%A8%E7%B6%B2%E8%B7%AF%E7%88%AC%E8%9F%B2%E8%B3%87%E6%96%99%E5%88%86%E6%9E%90%E5%AF%A6%E5%8B%99%E7%8F%AD%E7%AC%AC01-2/)。
     - 2019年課程
         - 臺灣職能訓練產業工會 台灣文創訓練中心
-        	- 2019/08~2019/10 「108 Python大數據金融股票期貨網路爬蟲資料分析實務班第01期124995」[招訓簡章](https://drive.google.com/file/d/1wU12i95zxeaO0nBHgP4THQDgeVp8nkbd/view)。
+        	- 「108 Python大數據金融股票期貨網路爬蟲資料分析實務班第01期124995」 2019/08~2019/10 [招訓簡章](https://drive.google.com/file/d/1wU12i95zxeaO0nBHgP4THQDgeVp8nkbd/view)。
 
 - 企業內訓
     - 新光銀行「數位關鍵力系列課程 - Excel VBA 超入門實戰」2023/10/20、2023/10/25 [連結](https://www.facebook.com/photo/?fbid=10225046312925245)。
