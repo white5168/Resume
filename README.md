@@ -193,7 +193,7 @@
 		- 「Python程式設計入門班 」2024/2/16 ~ 2024/5/31。
     - 輔仁大學
 		- 經濟系大二「以GitHub打造個人數位履歷與個人網站」2024/06/07、2024/06/14、2024/06/21、2024/06/28，[連結](https://www.youtube.com/playlist?list=PL54rzwJSiELfDyPCXbEif280gF1mJ8oBH)。
-    		- 經濟系大二「Line 理財機器人」2024/05/06、2024/05/13、2024/05/20，[連結](https://www.youtube.com/playlist?list=PL54rzwJSiELe9NUYfXkljJtKHConaNioc)。
+		- 經濟系大二「Line 理財機器人」2024/05/06、2024/05/13、2024/05/20，[連結](https://www.youtube.com/playlist?list=PL54rzwJSiELe9NUYfXkljJtKHConaNioc)。
 		- 社會學院「Line 行銷機器人」2024/05/05、2024/05/12、2024/05/19，[連結](https://www.youtube.com/playlist?list=PL54rzwJSiELerY-ixuSZmftzUd4lDZjQU)。
 		- 經濟系大二「Excel VBA 網路爬蟲、金融數據與視覺化」2023/02/24、2023/03/03、2023/04/14、2023/0421。
 		- 經濟系大三、四「Python金融數據與視覺化」2022/11/08、2022/11/15、2022/11/22。
