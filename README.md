@@ -140,7 +140,8 @@
         	- 「113-155077 Python資料科學分析、視覺化呈現與資料庫班 - 113上半年計畫 - 42小時」 2024/04/15~2024/07/22 (週一) [招生簡章](https://drive.google.com/file/d/1qs_Uhr3fbvtLqskXwYgYQTXvWk7WXqtp/view)。
 	
         - 文化大學推廣部
-        	- 「112-150203 Python AI金融數據爬蟲與量化分析應用實務班第01期 - 112政策性計畫 54小時」 2024/03/03~2024/04/28 (週日) [招生簡章](https://drive.google.com/file/d/18KIhG-te51_dU_9pxkKffz_bfReXxpfl/view)。
+        	- 「113-157066 Python量化分析交易策略整合券商API元件打造程式交易實務班 - 113政策性計畫42小時」 2024/08/05~2024/09/18 (週一晚、週三晚) [招生簡章](https://drive.google.com/file/d/1OO5Egjy7txHyQ7bNmOsJJb9RAPa3wS_9/view)。
+         	- 「112-150203 Python AI金融數據爬蟲與量化分析應用實務班第01期 - 112政策性計畫 54小時」 2024/03/03~2024/04/28 (週日) [招生簡章](https://drive.google.com/file/d/18KIhG-te51_dU_9pxkKffz_bfReXxpfl/view)。
 
     - 2023年度課程
         - 臺灣職能訓練產業工會 台灣文創訓練中心
@@ -191,7 +192,8 @@
     - 師大推廣部
 		- 「Python程式設計入門班 」2024/2/16 ~ 2024/5/31。
     - 輔仁大學
-		- 經濟系大二「Line 理財機器人」2024/05/06、2024/05/13、2024/05/20，[連結](https://www.youtube.com/playlist?list=PL54rzwJSiELe9NUYfXkljJtKHConaNioc)。
+		- 經濟系大二「以GitHub打造個人數位履歷與個人網站」2024/06/07、2024/06/14、2024/06/21、2024/06/28，[連結](https://www.youtube.com/playlist?list=PL54rzwJSiELfDyPCXbEif280gF1mJ8oBH)。
+    		- 經濟系大二「Line 理財機器人」2024/05/06、2024/05/13、2024/05/20，[連結](https://www.youtube.com/playlist?list=PL54rzwJSiELe9NUYfXkljJtKHConaNioc)。
 		- 社會學院「Line 行銷機器人」2024/05/05、2024/05/12、2024/05/19，[連結](https://www.youtube.com/playlist?list=PL54rzwJSiELerY-ixuSZmftzUd4lDZjQU)。
 		- 經濟系大二「Excel VBA 網路爬蟲、金融數據與視覺化」2023/02/24、2023/03/03、2023/04/14、2023/0421。
 		- 經濟系大三、四「Python金融數據與視覺化」2022/11/08、2022/11/15、2022/11/22。
